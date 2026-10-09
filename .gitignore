@@ -1,0 +1,7 @@
+.gradle/
+build/
+chat-history/
+chat-server.log
+.idea/
+*.iml
+.koog-src/
